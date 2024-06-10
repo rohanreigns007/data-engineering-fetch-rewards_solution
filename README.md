@@ -6,7 +6,7 @@
 ## To run the code
 1. Clone this repo.
 ```bash
-git clone https://github.com/prasadashu/data-engineering-fetch-rewards.git
+git clone https://github.com/rohanreigns007/data-engineering-fetch-rewards_solution.git
 ```
 
 2. Go into the cloned repo.
